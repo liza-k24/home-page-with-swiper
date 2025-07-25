@@ -1,0 +1,29 @@
+@import url(https://remixicon.com/);
+
+@font-face {
+    font-family: 'SpecialGothicExpandedOne';
+    src: url('/fonts/SpecialGothicExpandedOne-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'RubikMonoOne';
+    src: url('/fonts//RubikMonoOne-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('/fonts//Manrope-VariableFont_wght.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+header {
+    font-family: 'RubikMonoOne';
+    text-decoration: none;
+}
+
+.nav_logo {
+    font-family:'SpecialGothicExpandedOne';
+}
