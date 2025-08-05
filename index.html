@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/dop-5.png" type="image/x-icon" sizes="32x32">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.min.css">
+    <link rel="stylesheet" href="styles/swiper-bundle.min.css">
     <link rel="stylesheet" href="styles/index.css">
     <title>Купи крутую машинку</title>
 
@@ -53,30 +54,55 @@
                 <h1 class="home_title">VIPER</h1>
             </div>
 
-            <div class="home_swiper">
-                <div>
-                    <article class="home_article">
+            <div class="home_swiper swiper">
+                <div class="swiper-wrapper">
+                    <article class="home_article swiper-slide">
                         <img src="img/main-1.png" alt="image" class="home_img">
                     </article>
 
-                    <article class="home_article">
+                    <article class="home_article swiper-slide">
                         <img src="img/main-2.png" alt="image" class="home_img">
                     </article>
 
-                    <article class="home_article">
+                    <article class="home_article swiper-slide">
                         <img src="img/main-3.png" alt="image" class="home_img">
                     </article>
                 </div>
             </div>
+
+            <div class="swiper-pagination"></div>
 
             <a href="#about" class="home_button">
                 <span>START</span>
                 <i class="ri-arrow-down-s-line"></i>
             </a>
         </section>
+
+        <section class="about section" id="about">
+            <div class="about_container container grid">
+                <h2 class="section_title about_title">
+                    DESIGNED TO <br>
+                    <span>GO BEYOND</span> <br>
+                    PERFOMANCE
+                </h2>
+
+                <p class="abot_description">
+                    White knuckles, burning rubber, and top speeds of 180 miles per hour all complimented by the roar of a V10 8.0 liter power plant. For 25 years, the Dodge Viper has been representing the USA as one of the most unique supercars in the world. The year 2017 was the final year for this beloved icon. So as we wave goodbye, let’s take a look back upon the lifespan of Dodge’s V10 champion.
+                </p>
+
+                <a href="#" class="button button_ghost">
+                    DETAILS <i class="ri-arrow-right-s-line"></i>
+                </a>
+            </div>
+
+            <div class="about_img">
+                <img src="img/dop-1.jpg" alt="image">
+            </div>
+        </section>
     </main>
 </body>
 
+<script src="swiper-bundle.min.js"></script>
 <script src="script.js"></script>
 
 </html>

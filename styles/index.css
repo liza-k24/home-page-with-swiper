@@ -23,7 +23,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  /* font-family: 'SpecialGothicExpandedOne'; */
+  font-family: 'Manrope';
 }
 
 html {
@@ -146,6 +146,11 @@ body {
     top: 0;
 }
 
+.bg-header {
+    background-color: #E1DCDC;
+    box-shadow: 0 4px 16px hsla(0, 0%, 0%, .1);
+}
+
 @media screen and (min-width: 1150px) {
     .nav_toggle,
     .nav_close {
@@ -165,7 +170,9 @@ body {
     height: 730px;
     background-color: #E1DCDC;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .home_bg,
@@ -190,21 +197,22 @@ body {
 
 .home_data {
     position: absolute;
-    top: 17rem;
+    top: 9.5rem;
     justify-self: center;
     text-align: center;
 }
 
 .home_subtitle {
-    font-size: 1rem;
+    font-size: 2rem;
     font-family: 'SpecialGothicExpandedOne';
     font-weight: 700;
     letter-spacing: 1px;
-    margin-bottom: .25rem;
+    margin-bottom: .205rem;
+    color: #3a3838;
 }
 
 .home_title {
-    font-size: 2.5rem;
+    font-size: 5.5rem;
     font-family: 'SpecialGothicExpandedOne';
     color: #E1DCDC;
     font-weight: 800;
@@ -241,9 +249,48 @@ body {
 
 .home_swiper {
     position: relative;
+    align-self: center;
+    width: 100%;
+}
+
+.home_article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .home_img {
-    width: 300px;
+    max-width: 400px;
+    max-height: 200px;
     margin-inline: auto;
+    display: block;
+}
+
+
+.swiper {
+    margin-inline: initial;
+    align-self: center;
+    margin-bottom: 1.5rem;
+}
+
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+    height: max-content;
+    top: 30rem;
+    display: flex;
+    justify-content: center;
+    column-gap: 1.5rem;
+}
+
+.swiper-pagination-bullet {
+    color: #fff;
+    opacity: 1;
+    background: none;
+    font-size: 1rem;
+    font-weight: 700;
+    transition: color .4s;
+    font-family: 'RubikMonoOne';
+}
+
+.swiper-pagination-bullet-active {
+    color: #f14122;
 }
