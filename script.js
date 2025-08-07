@@ -32,9 +32,9 @@ const swiperHome = new Swiper('.home_swiper', {
         },
     },
 
-    // autoplay: {
-    //     delay: 5000,
-    // }
+    autoplay: {
+        delay: 5000,
+    }
     
 })
 
