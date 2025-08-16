@@ -4,11 +4,15 @@
 
 ---
 
-## О проекте <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVtYzB5aXF0dDBlbDhteTA0eTdxYzUyZDNwNXBvMWMyNXY4czNrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="50">
+## О проекте <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnZGx0NTVpZjgxN3BrNXdhZHdnbDFwYjVnam84bWFnaHd3NTQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" width="50">
 
-``` Главная страница для автомобиля Dodge Viper с современным дизайном и адаптивной версткой. Основные особенности:
+<h3> Главная страница для автомобиля Dodge Viper с современным дизайном и адаптивной версткой. Основные особенности: </h3>
 
-   - Анимации и интерактивные элементы
+```javascript
+
+const about = 
+{
+    - Анимации и интерактивные элементы
 
    - Адаптивность под мобильные устройства
 
@@ -17,7 +21,9 @@
    - Эффекты при скролле
 
    - Плавная навигация по странице
+}
 ```
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5dGt3dHg4bnZpdTNmcGJqenJweGo1bXp1Zjh4NjM4cWQzczZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F569oDhxoCw9ptI8F6/giphy.gif">
 ---
 
