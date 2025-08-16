@@ -31,8 +31,6 @@ html {
 }
 
 body {
-    /* display: flex; */
-    /* flex-direction: column; */
     max-width: 100%;
     min-height: 100vh;
 
@@ -105,7 +103,6 @@ body {
 .nav_list {
     text-align: center;
     display: flex;
-    /* flex-direction: column; */
     justify-content: space-between;
     align-items: center;
     gap: 4rem;
@@ -266,7 +263,6 @@ body {
 
 .home_img {
     max-width: 600px;
-    /* max-height: 300px; */
     margin-inline: auto;
     display: block;
 }
@@ -274,7 +270,6 @@ body {
 @media screen and (max-width: 1150px) {
   .home_img {
     max-width: 370px;
-    /* max-height: 300px; */
     margin-inline: auto;
     display: block;
     }
@@ -283,10 +278,6 @@ body {
 @media screen and (max-width: 1150px) {
   .home_title {
     font-size: 5rem;
-    /* font-family: 'SpecialGothicExpandedOne';
-    color: #E1DCDC;
-    font-weight: 800;
-    letter-spacing: 2px; */
     }
 }
 
@@ -387,8 +378,6 @@ body {
         transform: translateX(40%);
     }
 }
-
-
 
 .button {
     display: inline-flex;
