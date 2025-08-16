@@ -6,6 +6,8 @@
 
 ## О проекте <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnZGx0NTVpZjgxN3BrNXdhZHdnbDFwYjVnam84bWFnaHd3NTQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" width="50">
 
+<p align="center"><img  src="./readme_assets/main_page.jpg" width="100%"></p>
+
 <h3> Главная страница для автомобиля Dodge Viper с современным дизайном и адаптивной версткой. Основные особенности: </h3>
 
 ```javascript
