@@ -52,6 +52,9 @@ const about =
 
         Автоматическое закрытие при клике на пункт
 
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVwMzR6Z21odnJ1eWd6NDA1NmpjNXp6Ymx1MHIxanY2Z3huY3d0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2d3M2uh1qRGBIEUJct/giphy.gif">
+
+
     Эффекты шапки:
 
         Изменение фона при скролле
@@ -66,12 +69,6 @@ const about =
 
         3 слайда с изображениями авто
 
-    Секции:
-
-        Hero-секция с фоновым изображением
-
-        О компании с текстом и изображением
-
-        Кнопка плавной прокрутки вниз
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlweDk2NzZ2bDhkdHhiaWVqMmJ6Zjd3Y2xjNjYzODk1ZTJscXQ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIJuKeSV6SaIrtrgsi/giphy.gif">
 
 ---
