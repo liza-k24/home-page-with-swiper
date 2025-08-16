@@ -45,6 +45,7 @@ const about =
 
 ---
 ## Ключевые функции
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dqeDY2MHQwdWlpNmptY2pyMG9hN3htMW0yZWk4aTZoejZ6NjBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZsl2desm9PVP7LcPQ/giphy.gif">
 
     Адаптивное меню:
 
