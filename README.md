@@ -1,5 +1,5 @@
 # Home Page with Swiper
-
+Главная страница лендинга для автомобиля Dodge Viper, включающая свайпер. 
 Создана в рамках обучения и как часть портфолио frontend-разработчика.
 
 ---
@@ -18,7 +18,7 @@
 
    - Плавная навигация по странице
 ```
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5dGt3dHg4bnZpdTNmcGJqenJweGo1bXp1Zjh4NjM4cWQzczZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F569oDhxoCw9ptI8F6/giphy.gif" width="50">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5dGt3dHg4bnZpdTNmcGJqenJweGo1bXp1Zjh4NjM4cWQzczZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F569oDhxoCw9ptI8F6/giphy.gif">
 ---
 
 ## Технологии
@@ -36,13 +36,6 @@
         Remix Icon - иконки
 
 ---
-project/
-├── index.html          - главная страница
-├── script.js           - основной скрипт
-├── index.css           - основные стили
-├── styles/
-│   ├── swiper-bundle.min.css  - стили Swiper
-├── fonts/              - кастомные шрифты
-├── img/                - все изображения
+
 
 ---
