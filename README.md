@@ -26,7 +26,7 @@ const about =
 }
 ```
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5dGt3dHg4bnZpdTNmcGJqenJweGo1bXp1Zjh4NjM4cWQzczZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F569oDhxoCw9ptI8F6/giphy.gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5dGt3dHg4bnZpdTNmcGJqenJweGo1bXp1Zjh4NjM4cWQzczZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F569oDhxoCw9ptI8F6/giphy.gif" width="90%">
 ---
 
 ## Технологии
@@ -45,7 +45,7 @@ const about =
 
 ---
 ## Ключевые функции
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dqeDY2MHQwdWlpNmptY2pyMG9hN3htMW0yZWk4aTZoejZ6NjBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZsl2desm9PVP7LcPQ/giphy.gif">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dqeDY2MHQwdWlpNmptY2pyMG9hN3htMW0yZWk4aTZoejZ6NjBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZsl2desm9PVP7LcPQ/giphy.gif" width="90%">
 
     Адаптивное меню:
 
@@ -55,7 +55,7 @@ const about =
 
         Автоматическое закрытие при клике на пункт
 
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVwMzR6Z21odnJ1eWd6NDA1NmpjNXp6Ymx1MHIxanY2Z3huY3d0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2d3M2uh1qRGBIEUJct/giphy.gif">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVwMzR6Z21odnJ1eWd6NDA1NmpjNXp6Ymx1MHIxanY2Z3huY3d0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2d3M2uh1qRGBIEUJct/giphy.gif" width="90%">
 
 
     Эффекты шапки:
@@ -72,6 +72,6 @@ const about =
 
         3 слайда с изображениями авто
 
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlweDk2NzZ2bDhkdHhiaWVqMmJ6Zjd3Y2xjNjYzODk1ZTJscXQ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIJuKeSV6SaIrtrgsi/giphy.gif">
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlweDk2NzZ2bDhkdHhiaWVqMmJ6Zjd3Y2xjNjYzODk1ZTJscXQ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIJuKeSV6SaIrtrgsi/giphy.gif" width="90%">
 
 ---
